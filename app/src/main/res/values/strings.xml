@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">EnjoyGarut</string>
+    <string name="title_activity_main">Enjoy Garut</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="backdrop_title">ENJOY GARUT</string>
+    <string name="backdrop_subtitle">This Top Destination and Culinary In Garut</string>
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="nav_home">Home</string>
+    <string name="nav_destination">Destination</string>
+    <string name="nav_culinary">Culinary</string>
+    <string name="nav_about_us">About Us</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Home</item>
+        <item>Destination</item>
+        <item>Culinary</item>
+    </string-array>
+
+    <string name="activity_title_about_us">About Us</string>
+</resources>
